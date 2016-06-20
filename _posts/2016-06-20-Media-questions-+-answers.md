@@ -1,11 +1,13 @@
 ---
-title: Media questions + answers
+title: Identity map questions + answers
 layout: post
 author: toby.wonnacott
 permalink: /media-questions-+-answers/
 source-id: 1f7ojPZkDnjrnUrQnH3Ha8qxQ2ctxHHHD6ywSz1Vns_E
 published: true
 ---
+Below are the questions we had to answer for the identity maps we created:
+
 1. How was it to create your identity map? I found it quite fun and loved trying to put as much into it as I could
 
 2. How did you feel about sharing your map with the rest of class in this way? I did not mind sharing it with the class because I think that my work followed the criteria.
