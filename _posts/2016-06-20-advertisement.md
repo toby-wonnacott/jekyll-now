@@ -1,5 +1,5 @@
 ---
-title: advertisement
+title: Advertisement
 layout: post
 author: toby.wonnacott
 permalink: /advertisement/
