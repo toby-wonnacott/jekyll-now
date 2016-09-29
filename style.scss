@@ -293,3 +293,11 @@ footer {
 body {
     background-image: url("http://wallup.net/wp-content/uploads/2015/12/66430-landscape-artwork-Firewatch-nature-minimalism-video_games-Campo_Santo.jpg");
 }
+
+table {
+     border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+} 
