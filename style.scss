@@ -18,6 +18,7 @@ html {
 }
 
 body {
+	background-image: url("http://fungyung.com/data/out/42/62940518-firewatch-wallpapers.jpg");
 	background-repeat: no-repeat;
         background-attachment: fixed;
         background-position: center; 
@@ -289,10 +290,6 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-
-body {
-    background-image: url("http://fungyung.com/data/out/42/62940518-firewatch-wallpapers.jpg");
-}
 
 table {
      border-collapse: collapse;
