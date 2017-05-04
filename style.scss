@@ -299,3 +299,13 @@ table, th, td {
     border: 2px solid black;
     tr:nth-child(even) {background-color: #f2f2f2}
 }	
+
+
+body {
+	background: url("http://fungyung.com/data/out/42/62940518-firewatch-wallpapers.jpg");
+	background-repeat: no-repeat;
+        background-attachment: fixed;
+        background-position: center; 
+  font: 18px/1.4 $helvetica;
+  color: #b3cbff;
+}
