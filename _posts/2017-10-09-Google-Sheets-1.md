@@ -8,5 +8,11 @@ published: true
 ---
 Week 1
 
-In this lesson we learnt the basics of google spreadsheets. We learnt how to add, subtract, multiply and divide using the basic codes. We created a sheet called Practise and got taught from Mr Keen. The thing I will change for next time is paying more attention to Mr Keen
+In this lesson we learnt the basics of google spreadsheets. We learnt how to add, subtract, multiply and divide using the basic codes. We created a sheet called Practise and got taught from Mr Keen. The thing I will change for next time is paying more attention to Mr Keen and tried to made more of an effort to develop my code.
+
+<br>
+
+<hr>
+
+<h3>     </h3>
 
