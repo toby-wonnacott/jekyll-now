@@ -1,0 +1,12 @@
+---
+title: Google Sheets 1
+layout: post
+author: toby.wonnacott
+permalink: /google-sheets-1/
+source-id: 16jNYwtSsx4aoBN1HJs-6a-VrwW4KEu3InoKXzJqM7V0
+published: true
+---
+Week 1
+
+In this lesson we learnt the basics of google spreadsheets. We learnt how to add, subtract, multiply and divide using the basic codes. We created a sheet called Practise and got taught from Mr Keen. The thing I will change for next time is paying more attention to Mr Keen
+
