@@ -19,6 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
+
     <td></td>
   </tr>
   <tr>
@@ -43,8 +44,6 @@ published: true
   <tr>
     <td>I learned by exploring what I could do through the simple basic codes we were instructed to do from Mr Keen. Since we did some spreadsheets in my old school, I had a vague idea of how to use spreadsheets but I just needed a refresher. </td>
   </tr>
-  <tr>
-    <td>What limited my learning? Which habits do I need to work on?</td>
   </tr>
   <tr>
     <td>.There was not too much that limited my learning as the task was quite simple this first lesson, however it took a bit of time to get used to writing in the first few easy codes as it was the first lesson of the year.</td>
@@ -57,4 +56,10 @@ published: true
   </tr>
 </table>
 
+<br>
+<br>
+<hr>
 
+<hr3> Spreadsheet </hr3>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTPtqqr3W1xJcIEpfd2KzIVaT7t_5gxQ3KkpDxXmksZZD5Eb9Y8dH-nIgRz6JTuHa6bwAKdulbQDcjN/pubhtml?widget=true&amp;headers=false"></iframe>
