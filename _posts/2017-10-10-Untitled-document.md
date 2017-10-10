@@ -1,9 +1,9 @@
 ---
-title: Google Spreadsheets 2
+title: Google Spreadsheets first lessons
 layout: post
 author: toby.wonnacott
 permalink: /untitled-document/
-source-id: 1f4cmUFapUODwlrDxZyUgXuDv8dHlGqgmfRPWPaJM9Io
+source-id: 14Kzm6CXFoNU8cb_Yu9chMDmQY7Wk6jjpQVnu8z91lP4
 published: true
 ---
 <table>
@@ -28,7 +28,7 @@ published: true
   <tr>
     <td>Did I reach my target?
 (add details to "Lesson Review")</td>
-    <td>Yes I finally got a spreadsheet that has a working vlookup</td>
+    <td></td>
   </tr>
 </table>
 
@@ -41,19 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective?</td>
   </tr>
   <tr>
-    <td>I learned by exploring what I could do through the vlookup code we were instructed to do from Mr Keen. I did what I was instructed to do with a few struggles on the way but in the end got a range and vlookup code that was working.</td>
+    <td>I learned by exploring what I could do through the simple basic codes we were instructed to do from Mr Keen. Since we did some spreadsheets in my old school, I had a vague idea of how to use spreadsheets but I just needed a refresher. </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on?</td>
   </tr>
   <tr>
-    <td>There was not too much that limited my learning as the task was just to do what we were instructed to do, however I found it hard to do vlookup at first but worked through it and asked questions.</td>
+    <td>.There was not too much that limited my learning as the task was quite simple this first lesson, however it took a bit of time to get used to writing in the first few easy codes as it was the first lesson of the year.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will try to improve my learning by remembering how to quickly write in codes and use the shortcuts for spreadsheets. I will also ask more questions in order to gain more knowledge.</td>
+    <td>I will try to improve my learning by remembering how to quickly write in codes and use the shortcuts for spreadsheets </td>
   </tr>
 </table>
 
