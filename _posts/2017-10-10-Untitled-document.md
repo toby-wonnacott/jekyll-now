@@ -1,5 +1,5 @@
 ---
-title: Google sheets first lesson!
+title: Google Spreadsheets first lesson!
 layout: post
 author: toby.wonnacott
 permalink: /untitled-document/
